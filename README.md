@@ -1,5 +1,6 @@
 # AI_HW2
-8 puzzle game #2
+8 puzzle game #2  
+ITCS451_Artificial Intelligence
 
 ## Description:
 
